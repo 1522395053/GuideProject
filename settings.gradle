@@ -1,0 +1,2 @@
+include ':app', ':guide'
+rootProject.name='My Application'
