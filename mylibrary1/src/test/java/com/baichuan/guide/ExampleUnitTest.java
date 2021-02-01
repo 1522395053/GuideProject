@@ -1,4 +1,4 @@
-package com.ssyh.mylibrary1;
+package com.baichuan.guide;
 
 import org.junit.Test;
 
